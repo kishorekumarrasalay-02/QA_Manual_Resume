@@ -72,7 +72,7 @@ I am a motivated **QA Manual Tester** with a strong understanding of the **Softw
 * Conducted end-to-end manual testing of a real-time e-commerce application
 * Analyzed Functional Requirement Specifications (FRS)
   
-* Created detailed test scenarios and test cases for:
+* **Created detailed test scenarios and test cases for**
 
 * User Registration & Login, Forgot Password, Product Search, Add to Cart
     
