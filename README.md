@@ -109,8 +109,11 @@ To secure an **entry-level QA Manual Tester** position where I can apply my test
 ## 📬 Contact Details
 
 📞 **Mobile:** +91 94909 46159
+
 📧 **Email:** [kishorekummarrasalay05@gmail.com](mailto:kishorekummarrasalay05@gmail.com)
+
 🔗 **LinkedIn:** [linkedin.com/in/kishorekumarrasalay](https://www.linkedin.com/in/kishorekumarrasalay/)
+
 💻 **GitHub:** [github.com/kishorekumarrasalay-02](https://github.com/kishorekumarrasalay-02)
 
 ---
