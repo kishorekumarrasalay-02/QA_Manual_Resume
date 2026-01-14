@@ -36,39 +36,31 @@ I am a motivated **QA Manual Tester** with a strong understanding of the **Softw
 
 ### Bug Tracking & Tools
 
-* **JIRA** for:
+* **JIRA**
 
-* Defect Logging
-* Bug Life Cycle Management
-* Status Tracking
+* Defect Logging, Bug Life Cycle Management, Status Tracking
 
-* Clear defect documentation including:
+* **Clear defect documentation including**
 
-* Steps to Reproduce
-* Expected vs Actual Results
-* Severity & Priority
+* Steps to Reproduce, Expected vs Actual Results, Severity & Priority
 
 ---
 
 ### Web Testing & Debugging
 
-* **Chrome DevTools**:
+* **Chrome DevTools**
 
-* Element Inspection
-* UI Validation
-* Basic Network Analysis
+* Element Inspection, UI Validation, Basic Network Analysis
 
-* Cross-browser testing:
+* **Cross-browser testing**
 
-* Chrome
-* Edge
-* Firefox
+* Chrome, Edge, Firefox
 
 ---
 
-### Basic Technical Knowledge
+### Technical Knowledge
 
-* SQL (Basic Queries: `SELECT`, `WHERE`)
+* SQL (DDL,DML,DQL and Basic Queries: SELECT *, SELECT column, WHERE condition, ORDER BY, COUNT(), SUM())
 * Basic understanding of HTML & CSS structure
 
 ---
