@@ -20,8 +20,6 @@ I am a motivated **QA Manual Tester** with a strong understanding of the **Softw
 * Retesting
 * User Acceptance Testing (UAT – basic understanding)
 
----
-
 ### Test Design & Execution
 
 * Requirement Analysis (FRS / BRD)
@@ -31,8 +29,6 @@ I am a motivated **QA Manual Tester** with a strong understanding of the **Softw
 * Defect Identification & Root Cause Analysis
 * Test Closure Activities
 * Requirement Traceability Matrix (RTM)
-
----
 
 ### Bug Tracking & Tools
 
@@ -44,8 +40,6 @@ I am a motivated **QA Manual Tester** with a strong understanding of the **Softw
 
 * Steps to Reproduce, Expected vs Actual Results, Severity & Priority
 
----
-
 ### Web Testing & Debugging
 
 * **Chrome DevTools**
@@ -55,8 +49,6 @@ I am a motivated **QA Manual Tester** with a strong understanding of the **Softw
 * **Cross-browser testing**
 
 * Chrome, Edge, Firefox
-
----
 
 ### Technical Knowledge
 
