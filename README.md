@@ -95,13 +95,11 @@ I am a motivated **QA Manual Tester** with a strong understanding of the **Softw
 * Identified, logged, and tracked defects using **JIRA**
 * Prepared test execution reports and test summary documentation
 
----
 
 ## 🎯 Career Objective
 
 To secure an **entry-level QA Manual Tester** position where I can apply my testing knowledge, contribute to delivering high-quality software, and continuously enhance my skills in manual testing practices.
 
----
 
 ## 📬 Contact Details
 
@@ -115,4 +113,4 @@ To secure an **entry-level QA Manual Tester** position where I can apply my test
 
 ---
 
-Thank you for visiting my repository. I am open to fresher QA Man
+Thank you for visiting my repository. I am open to fresher QA Manual Tester Opportunities.
