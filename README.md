@@ -1,120 +1,117 @@
 # QA_Manual_Resume
-QA Manual Tester | Functional &amp; Regression Testing | Test Scenarios &amp; RTM | Bug Tracking with JIRA | Web Testing
 
-About Me
+# About Me
 
-I am a motivated QA Manual Tester with a strong understanding of the Software Testing Life Cycle (STLC) and Software Development Life Cycle (SDLC). I have hands-on experience in testing web-based applications with a focus on requirement analysis, test case design, execution, and defect reporting. I am eager to contribute to product quality and grow as a QA professional.
+I am a motivated **QA Manual Tester** with a strong understanding of the **Software Testing Life Cycle (STLC)** and **Software Development Life Cycle (SDLC)**. I have hands-on experience in testing web-based applications with a focus on requirement analysis, test case design, execution, and defect reporting. I am eager to contribute to product quality and grow as a QA professional.
 
-Skills
-Manual Testing Skills
+---
 
-Software Testing Life Cycle (STLC)
+## 🛠️ Skills
 
-Software Development Life Cycle (SDLC)
+### 🔹 Manual Testing Skills
 
-Functional Testing
+* Software Testing Life Cycle (STLC)
+* Software Development Life Cycle (SDLC)
+* Functional Testing
+* Non-Functional Testing (Usability, UI)
+* Smoke Testing
+* Sanity Testing
+* Regression Testing
+* Retesting
+* User Acceptance Testing (UAT – basic understanding)
 
-Non-Functional Testing (Usability, UI)
+---
 
-Smoke Testing
+### 🔹 Test Design & Execution
 
-Sanity Testing
+* Requirement Analysis (FRS / BRD)
+* Test Scenario Creation
+* Test Case Design (Positive, Negative & Boundary cases)
+* Test Execution & Result Analysis
+* Defect Identification & Root Cause Analysis
+* Test Closure Activities
+* Requirement Traceability Matrix (RTM)
 
-Regression Testing
+---
 
-Retesting
+### 🔹 Bug Tracking & Tools
 
-User Acceptance Testing (UAT – basic understanding)
+* **JIRA** for:
 
-Test Design & Execution
+  * Defect Logging
+  * Bug Life Cycle Management
+  * Status Tracking
 
-Requirement Analysis (FRS / BRD)
+* Clear defect documentation including:
 
-Test Scenario Creation
+  * Steps to Reproduce
+  * Expected vs Actual Results
+  * Severity & Priority
 
-Test Case Design (Positive, Negative & Boundary cases)
+---
 
-Test Execution & Result Analysis
+### 🔹 Web Testing & Debugging
 
-Defect Identification & Root Cause Analysis
+* **Chrome DevTools**:
 
-Test Closure Activities
+  * Element Inspection
+  * UI Validation
+  * Basic Network Analysis
 
-Requirement Traceability Matrix (RTM)
+* Cross-browser testing:
 
-Bug Tracking & Tools
+  * Chrome
+  * Edge
+  * Firefox
 
-JIRA for:
+---
 
-Defect Logging
+### 🔹 Basic Technical Knowledge
 
-Bug Life Cycle Management
+* SQL (Basic Queries: `SELECT`, `WHERE`)
+* Basic understanding of HTML & CSS structure
 
-Status Tracking
+---
 
-Clear defect documentation with:
+## 📌 Projects
 
-Steps to Reproduce
+### 🛒 Manual Testing Project – E-Commerce Web Application
 
-Expected vs Actual Results
+**LambdaTest E-Commerce Playground**
+*Personal Project | January 2026*
 
-Severity & Priority
+* Conducted end-to-end manual testing of a real-time e-commerce application
+* Analyzed Functional Requirement Specifications (FRS)
+* Created detailed test scenarios and test cases for:
 
-Web Testing & Debugging
+  * User Registration & Login
+  * Forgot Password
+  * Product Search
+  * Add to Cart
+    
+* Executed test cases covering:
 
-Chrome DevTools:
+  * Functional Testing
+  * Smoke Testing
+  * Sanity Testing
+  * Regression Testing
+* Identified, logged, and tracked defects using **JIRA**
+* Prepared test execution reports and test summary documentation
 
-Element Inspection
+---
 
-UI Validation
+## 🎯 Career Objective
 
-Basic Network Analysis
+To secure an **entry-level QA Manual Tester** position where I can apply my testing knowledge, contribute to delivering high-quality software, and continuously enhance my skills in manual testing practices.
 
-Cross-browser testing (Chrome, Edge, Firefox)
+---
 
-Basic Technical Knowledge
+## 📬 Contact Details
 
-SQL (Basic Queries – SELECT, WHERE)
+📞 **Mobile:** +91 94909 46159
+📧 **Email:** [kishorekummarrasalay05@gmail.com](mailto:kishorekummarrasalay05@gmail.com)
+🔗 **LinkedIn:** [linkedin.com/in/kishorekumarrasalay](https://www.linkedin.com/in/kishorekumarrasalay/)
+💻 **GitHub:** [github.com/kishorekumarrasalay-02](https://github.com/kishorekumarrasalay-02)
 
-Understanding of HTML, CSS (basic structure awareness)
-
-Projects
-Manual Testing Project – E-Commerce Web Application
-
-LambdaTest E-Commerce Playground
-Personal Project | January 2026
-
-Conducted end-to-end manual testing of a real-time e-commerce application
-
-Analyzed functional requirement specifications (FRS)
-
-Created detailed test scenarios and test cases for:
-
-User Registration & Login
-
-Forgot Password
-
-Product Search
-
-Add to Cart
-
-Checkout flow
-
-Executed test cases covering functional, smoke, sanity, and regression testing
-
-Identified, logged, and tracked defects using JIRA
-
-Prepared test execution reports and test summary documentation
-
-Career Objective
-
-To secure an entry-level QA Manual Tester position where I can apply my testing knowledge, contribute to delivering high-quality software, and continuously enhance my skills in manual testing practices.
-
-Contact Details
-
-📞 Mobile: +91 94909 46159
-📧 Email: kishorekummarrasalay05@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/kishorekumarrasalay/
-
-💻 GitHub: https://github.com/kishorekumarrasalay-02
+---
+Thank you for visiting my repository. I am open to fresher QA Manual Tester opportunities.
