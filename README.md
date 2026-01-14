@@ -71,20 +71,16 @@ I am a motivated **QA Manual Tester** with a strong understanding of the **Softw
 
 * Conducted end-to-end manual testing of a real-time e-commerce application
 * Analyzed Functional Requirement Specifications (FRS)
+  
 * Created detailed test scenarios and test cases for:
 
-* User Registration & Login
-* Forgot Password
-* Product Search
-* Add to Cart
+* User Registration & Login, Forgot Password, Product Search, Add to Cart
     
 * Executed test cases covering:
 
-* Functional Testing
-* Smoke Testing
-* Sanity Testing
-* Regression Testing
-* Identified, logged, and tracked defects using **JIRA**
+* Functional Testing, Smoke Testing, Sanity Testing, Regression Testing, Identified, logged, and tracked defects using
+  
+* **JIRA**
 * Prepared test execution reports and test summary documentation
 
 
