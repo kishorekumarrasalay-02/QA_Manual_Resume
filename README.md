@@ -59,7 +59,7 @@ I am a motivated **QA Manual Tester** with a strong understanding of the **Softw
 
 ## 📌 Project
 
-### 🛒 Manual Testing Project – E-Commerce Web Application
+### 🛒 Manual Testing Project – Openacrt E-Commerce Web Application
 
 * Conducted end-to-end manual testing of a real-time e-commerce application
 * Analyzed Functional Requirement Specifications (FRS)
@@ -68,7 +68,7 @@ I am a motivated **QA Manual Tester** with a strong understanding of the **Softw
 
 * User Registration & Login, Forgot Password, Product Search, Add to Cart
     
-* Executed test cases covering:
+* Executed test cases covering
 
 * Functional Testing, Smoke Testing, Sanity Testing, Regression Testing, Identified, logged, and tracked defects using
   
