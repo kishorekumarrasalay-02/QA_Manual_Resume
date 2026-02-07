@@ -114,49 +114,6 @@ Conducted end-to-end manual testing of a live e-commerce platform, ensuring qual
 
 ---
 
-## 🎓 Education
-
-### **Bachelor of Technology (Electronics and Communication Engineering)**
-**Rajeev Gandhi Memorial College of Engineering and Technology**  
-📍 Nandyal, Andhra Pradesh | 📅 June 2018 – April 2022  
-🎯 CGPA: 6.5/10
-
-### **Intermediate (Class XII)**
-**Narayana Junior College**  
-📍 Adoni, Andhra Pradesh | 📅 June 2016 – April 2018  
-🎯 Percentage: 84.6%
-
-### **SSC (Class X)**
-**Narayana English Medium School**  
-📍 Adoni, Andhra Pradesh | 📅 June 2015 – April 2016  
-🎯 GPA: 7.7/10
-
----
-
-## 📚 Certifications & Courses
-
-### **Selenium with Python Automation Testing – PyTest & Hybrid Framework**
-**Udemy** | 📅 November 2025 – December 2025
-- Built automation frameworks
-- Implemented Page Object Model (POM)
-- Fixtures, reporting, and end-to-end testing
-
-### **Advanced Excel for Analytics**
-**360DigiTMG** | 📅 September 2025
-- Gained hands-on experience with formulas, pivot tables, and data analysis
-- Dashboard creation and data visualization
-
----
-
-## 🏆 Achievements
-
-**E-Summit Participation - SUMVN & KGS ADVISORS**
-- Participated in E-Summit organized by SUMVN in association with RGMCET College
-- 📅 March 1, 2019 | 📍 Nandyal
-- Focused on entrepreneurship, innovation, and startup ecosystem
-
----
-
 ## 🎯 Career Objective
 
 To secure an **entry-level QA Manual Tester** position where I can apply my testing knowledge, contribute to delivering high-quality software, and continuously enhance my skills in manual testing practices and test automation.
