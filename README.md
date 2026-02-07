@@ -2,7 +2,7 @@
 
 # About Me
 
-I am a motivated **QA Manual Tester** with a strong understanding of the **Software Testing Life Cycle (STLC)** and **Software Development Life Cycle (SDLC)**. I have hands-on experience in testing web-based applications with a focus on requirement analysis, test case design, execution, and defect reporting. I am eager to contribute to product quality and grow as a QA professional.
+QA Manual Testing Fresher with solid knowledge of SDLC, STLC, and Agile methodologies. Skilled in requirement analysis, test case design, execution, RTM maintenance, and defect tracking using JIRA. Experienced in Functional, Regression, Smoke, Sanity, Integration, and UI testing for web applications. Proficient in SQL for backend test data validation and database testing. Strong analytical skills with keen attention to detail and commitment to delivering high-quality, reliable software products.
 
 ---
 
