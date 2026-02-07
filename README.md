@@ -1,139 +1,187 @@
-👨‍💻 Kishore Kumar R - QA Manual Tester
-Show Image
-Show Image
-Show Image
+# 👨‍💻 Kishore Kumar R - QA Manual Tester
 
-QA Manual Tester | Functional & Regression Testing | Test Scenarios & RTM | Bug Tracking with JIRA | Web Testing
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/kishorekumarrasalay)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kishorekumarrasalay05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/kishorekumarrasalay-02)
 
+> **QA Manual Tester | Functional & Regression Testing | Test Scenarios & RTM | Bug Tracking with JIRA | Web Testing**
 
-📋 About Me
-QA Manual Testing Fresher with solid knowledge of SDLC, STLC, and Agile methodologies. Skilled in requirement analysis, test case design, execution, RTM maintenance, and defect tracking using JIRA. Experienced in Functional, Regression, Smoke, Sanity, Integration, and UI testing for web applications. Proficient in SQL for backend test data validation and database testing. Strong analytical skills with keen attention to detail and commitment to delivering high-quality, reliable software products.
+---
 
-🛠️ Skills
-Testing Methodologies
+## 📋 About Me
 
-Software Development Life Cycle (SDLC)
-Software Testing Life Cycle (STLC)
-Agile/Scrum Methodology
+QA Manual Testing Fresher with solid knowledge of **SDLC, STLC, and Agile methodologies**. Skilled in requirement analysis, test case design, execution, RTM maintenance, and defect tracking using **JIRA**. Experienced in **Functional, Regression, Smoke, Sanity, Integration, and UI testing** for web applications. Proficient in **SQL** for backend test data validation and database testing. Strong analytical skills with keen attention to detail and commitment to delivering high-quality, reliable software products.
 
-Test Management & Execution
+---
 
-✅ Test Scenario Creation
-✅ Test Case Design (Positive, Negative & Boundary cases)
-✅ Test Case Documentation
-✅ Test Execution & Result Analysis
-✅ Defect Life Cycle Management
-✅ Requirement Traceability Matrix (RTM)
+## 🛠️ Skills
 
-Test Types
+### **Testing Methodologies**
+- Software Development Life Cycle (SDLC)
+- Software Testing Life Cycle (STLC)
+- Agile/Scrum Methodology
 
-Functional Testing - Validating application functionality against requirements
-Regression Testing - Ensuring new changes don't break existing features
-Smoke Testing - Quick verification of critical functionalities
-Sanity Testing - Focused testing after bug fixes
-Integration Testing - Testing interaction between modules
-UI Testing - Validating user interface elements and usability
+### **Test Management & Execution**
+- ✅ Test Scenario Creation
+- ✅ Test Case Design (Positive, Negative & Boundary cases)
+- ✅ Test Case Documentation
+- ✅ Test Execution & Result Analysis
+- ✅ Defect Life Cycle Management
+- ✅ Requirement Traceability Matrix (RTM)
 
-Test Design Techniques
+### **Test Types**
+- **Functional Testing** - Validating application functionality against requirements
+- **Regression Testing** - Ensuring new changes don't break existing features
+- **Smoke Testing** - Quick verification of critical functionalities
+- **Sanity Testing** - Focused testing after bug fixes
+- **Integration Testing** - Testing interaction between modules
+- **UI Testing** - Validating user interface elements and usability
 
-Boundary Value Analysis (BVA)
-Equivalence Partitioning
-Decision Table Testing
-Error Guessing
+### **Test Design Techniques**
+- Boundary Value Analysis (BVA)
+- Equivalence Partitioning
+- Decision Table Testing
+- Error Guessing
 
-Web Testing
+### **Web Testing**
+- UI Validation & Cross-Browser Testing (Chrome, Edge, Firefox)
+- Form Validation
+- Cookies & Session Handling
+- **Chrome DevTools** - Element Inspection, Network Analysis
 
-UI Validation & Cross-Browser Testing (Chrome, Edge, Firefox)
-Form Validation
-Cookies & Session Handling
-Chrome DevTools - Element Inspection, Network Analysis
+### **API Testing (Basic Knowledge)**
+- REST APIs
+- HTTP Methods (GET, POST, PUT, DELETE)
+- Status Codes Validation (200, 404, 500, etc.)
 
-API Testing (Basic Knowledge)
+### **Database Testing**
+- **SQL** - Data Validation Queries
+- Commands: `SELECT`, `INSERT`, `UPDATE`, `DELETE`
+- Clauses: `WHERE`, `ORDER BY`, `GROUP BY`, `JOINs`
+- Aggregate Functions: `COUNT()`, `SUM()`, `AVG()`
 
-REST APIs
-HTTP Methods (GET, POST, PUT, DELETE)
-Status Codes Validation (200, 404, 500, etc.)
+### **Defect Management Tools**
+- **JIRA** - Bug Logging, Tracking & Life Cycle Management
+- **MS Excel** - Test Case Documentation & Reporting
 
-Database Testing
+### **Version Control**
+- **Git/GitHub** - Test Artifact Management & Version Control
 
-SQL - Data Validation Queries
-Commands: SELECT, INSERT, UPDATE, DELETE
-Clauses: WHERE, ORDER BY, GROUP BY, JOINs
-Aggregate Functions: COUNT(), SUM(), AVG()
+---
 
-Defect Management Tools
+## 💼 Project
 
-JIRA - Bug Logging, Tracking & Life Cycle Management
-MS Excel - Test Case Documentation & Reporting
+### 🛒 **Opencart E-Commerce - Manual Testing Project**
 
-Version Control
+**Tools & Technologies:** Manual Testing | Test Case Design | Defect Tracking | MySQL | SDLC/STLC | Git/GitHub | RTM | MS Excel
 
-Git/GitHub - Test Artifact Management & Version Control
-
-
-💼 Project
-🛒 Opencart E-Commerce - Manual Testing Project
-Tools & Technologies: Manual Testing | Test Case Design | Defect Tracking | MySQL | SDLC/STLC | Git/GitHub | RTM | MS Excel
-Project Overview
+#### **Project Overview**
 Conducted end-to-end manual testing of a live e-commerce platform, ensuring quality and reliability across critical user workflows.
-Key Contributions
-📝 Test Planning & Execution
 
-Designed and executed 25+ test cases covering positive, negative, and boundary scenarios
-Tested core modules: User Registration, Login/Logout, Password Recovery, Account Management
-Identified 8+ functional defects impacting user experience
+#### **Key Contributions**
 
-📊 Requirements Coverage
+**📝 Test Planning & Execution**
+- Designed and executed **25+ test cases** covering positive, negative, and boundary scenarios
+- Tested core modules: User Registration, Login/Logout, Password Recovery, Account Management
+- Identified **8+ functional defects** impacting user experience
 
-Created and maintained a Requirement Traceability Matrix (RTM)
-Achieved 100% coverage between functional requirements and test cases
-Ensured all business requirements were validated through testing
+**📊 Requirements Coverage**
+- Created and maintained a **Requirement Traceability Matrix (RTM)** 
+- Achieved **100% coverage** between functional requirements and test cases
+- Ensured all business requirements were validated through testing
 
-🐛 Defect Management
+**🐛 Defect Management**
+- Documented detailed bug reports with:
+  - Steps to reproduce
+  - Screenshots and logs
+  - Severity and priority classification
+- Tracked defects through complete lifecycle in **JIRA**
+- Ensured timely resolution of critical issues
 
-Documented detailed bug reports with:
+**💾 Database Validation**
+- Performed **SQL-based data validation** using MySQL
+- Verified user registration data integrity
+- Validated search functionality accuracy with database queries
 
-Steps to reproduce
-Screenshots and logs
-Severity and priority classification
+**🔄 Regression Testing**
+- Executed **Smoke and Regression testing** cycles post-deployment
+- Validated bug fixes and ensured zero impact on existing functionality
+- Maintained test execution reports and test summary documentation
 
+**📂 Version Control**
+- Utilized **Git/GitHub** for test artifact management
+- Maintained centralized repository of test plans, test cases, and validation scripts
 
-Tracked defects through complete lifecycle in JIRA
-Ensured timely resolution of critical issues
+---
 
-💾 Database Validation
+## 🎓 Education
 
-Performed SQL-based data validation using MySQL
-Verified user registration data integrity
-Validated search functionality accuracy with database queries
+### **Bachelor of Technology (Electronics and Communication Engineering)**
+**Rajeev Gandhi Memorial College of Engineering and Technology**  
+📍 Nandyal, Andhra Pradesh | 📅 June 2018 – April 2022  
+🎯 CGPA: 6.5/10
 
-🔄 Regression Testing
+### **Intermediate (Class XII)**
+**Narayana Junior College**  
+📍 Adoni, Andhra Pradesh | 📅 June 2016 – April 2018  
+🎯 Percentage: 84.6%
 
-Executed Smoke and Regression testing cycles post-deployment
-Validated bug fixes and ensured zero impact on existing functionality
-Maintained test execution reports and test summary documentation
+### **SSC (Class X)**
+**Narayana English Medium School**  
+📍 Adoni, Andhra Pradesh | 📅 June 2015 – April 2016  
+🎯 GPA: 7.7/10
 
-📂 Version Control
+---
 
-Utilized Git/GitHub for test artifact management
-Maintained centralized repository of test plans, test cases, and validation scripts
+## 📚 Certifications & Courses
 
+### **Selenium with Python Automation Testing – PyTest & Hybrid Framework**
+**Udemy** | 📅 November 2025 – December 2025
+- Built automation frameworks
+- Implemented Page Object Model (POM)
+- Fixtures, reporting, and end-to-end testing
 
-career Objective
-To secure an entry-level QA Manual Tester position where I can apply my testing knowledge, contribute to delivering high-quality software, and continuously enhance my skills in manual testing practices and test automation.
+### **Advanced Excel for Analytics**
+**360DigiTMG** | 📅 September 2025
+- Gained hands-on experience with formulas, pivot tables, and data analysis
+- Dashboard creation and data visualization
 
-📬 Contact Me
+---
 
-📞 Mobile: +91 94909 46159
-📧 Email: kishorekumarrasalay05@gmail.com
-💼 LinkedIn: linkedin.com/in/kishorekumarrasalay
-🐙 GitHub: github.com/kishorekumarrasalay-02
+## 🏆 Achievements
 
+**E-Summit Participation - SUMVN & KGS ADVISORS**
+- Participated in E-Summit organized by SUMVN in association with RGMCET College
+- 📅 March 1, 2019 | 📍 Nandyal
+- Focused on entrepreneurship, innovation, and startup ecosystem
 
-📊 GitHub Stats
-Show Image
+---
 
-💡 Open to Opportunities
-I am actively seeking opportunities as a QA Manual Tester where I can contribute to quality assurance processes and grow professionally. Feel free to connect!
+## 🎯 Career Objective
 
-⭐ If you find this repository helpful, please consider giving it a star!
+To secure an **entry-level QA Manual Tester** position where I can apply my testing knowledge, contribute to delivering high-quality software, and continuously enhance my skills in manual testing practices and test automation.
+
+---
+
+## 📬 Contact Me
+
+- 📞 **Mobile:** +91 94909 46159
+- 📧 **Email:** [kishorekumarrasalay05@gmail.com](mailto:kishorekumarrasalay05@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/kishorekumarrasalay](https://linkedin.com/in/kishorekumarrasalay)
+- 🐙 **GitHub:** [github.com/kishorekumarrasalay-02](https://github.com/kishorekumarrasalay-02)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishorekumarrasalay-02&show_icons=true&theme=radical)
+
+---
+
+### 💡 Open to Opportunities
+
+I am actively seeking opportunities as a **QA Manual Tester** where I can contribute to quality assurance processes and grow professionally. Feel free to connect!
+
+---
+
+**⭐ If you find this repository helpful, please consider giving it a star!**
