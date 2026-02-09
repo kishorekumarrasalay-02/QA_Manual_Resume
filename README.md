@@ -135,4 +135,4 @@ I am actively seeking opportunities as a **QA Manual Tester** where I can contri
 
 ---
 
-**⭐ If you find this repository helpful, please consider giving it a star!**
+**⭐ If you find this repository helpful, please consider giving it a star! ⭐**
