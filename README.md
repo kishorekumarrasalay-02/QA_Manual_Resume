@@ -129,12 +129,6 @@ To secure an **entry-level QA Manual Tester** position where I can apply my test
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishorekumarrasalay-02&show_icons=true&theme=radical)
-
----
-
 ### 💡 Open to Opportunities
 
 I am actively seeking opportunities as a **QA Manual Tester** where I can contribute to quality assurance processes and grow professionally. Feel free to connect!
